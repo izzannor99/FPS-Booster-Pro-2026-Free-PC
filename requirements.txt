@@ -1,0 +1,5 @@
+opencv-python
+win32api
+pillow
+mss
+colorama
